@@ -19,6 +19,10 @@
 
 
         <?php require 'nav.php';?>
+        
+        <div>
+            <h1>Se ha validado correctamente!</h1>
+        </div>
     
     </div>
 </body>
