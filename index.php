@@ -19,6 +19,29 @@
 
 
         <?php require 'nav.php';?>
+        
+        Crear una variable n y validar que sea un número positivo.
+2. Crear una variable n y validar que sea un número mayor a 1 y menor a 10.
+3. Crear una variable n y validar que sea un número mayor a 10 o menor a 2.
+4. Crear dos variables, una con nombre numero1 y otra con el nombre de numero2. Si numero1 es
+mayor a numero2, mostrar por pantalla, la suma y la resta. Si numero2 es mayor a numero1,
+mostrar por pantalla la multiplicación, la división entera y el resto de la división. Si numero1 y
+numero2 son iguales, mostrar el siguiente mensaje “Los números ingresados son iguales”.
+        
+        
+        <?php
+        
+        $variable = 1;
+        
+        if ($variable > 0){
+            echo 'es positivo';
+        }else{
+            echo 'es negativo';
+        }
+        
+        
+        
+        ?>
     </div>
 </body>
 </html>
