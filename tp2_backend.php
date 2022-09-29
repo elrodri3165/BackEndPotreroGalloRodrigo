@@ -86,7 +86,7 @@
             $division = $numero1 / $numero2;
             $resultado = intval($division);
             echo 'division: ', $resultado;
-            echo 'resto: ', $numero1 - ($resultado * $numero2);
+            echo 'resto: ', ($numero1 % $numero2);
         }
         
         echo '<br>';
