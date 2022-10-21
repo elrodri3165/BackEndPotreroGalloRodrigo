@@ -20,5 +20,8 @@
     <li class="nav-item">
         <a class="nav-link" href="tienda_ropa.sql">Tarea N7 - phpmyadmin</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link" href="tp8_backend.php">Tarea N8 - phpmyadmin2</a>
+    </li>
 
 </ul>
