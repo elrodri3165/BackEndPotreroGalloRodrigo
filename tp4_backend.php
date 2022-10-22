@@ -13,12 +13,9 @@
 <body>
     <div class="container">
 
-        <p>Alumno: Gallo Rodrigo Nicolas</p>
-        <p>Dni: 31143647</p>
-
-        <h1>Tareas</h1>
-
-1. Almacenar en un array los 10 primeros números pares y mostrar en pantalla uno debajo del otro.
+        <?php require 'nav.php';?>
+        
+        1. Almacenar en un array los 10 primeros números pares y mostrar en pantalla uno debajo del otro.
 2. Crear un array e introducir los siguientes valores: Pedro, Ana, 34 y 1, sin asignar el índice de la
 matriz. Mostrar el esquema del array con print_r().
 3. Crear un array asociativo e introducir los siguientes valores:
@@ -32,9 +29,6 @@ Ejemplo: La ciudad con el índice 0 tiene el nombre Madrid.
 5. Repite el ejercicio anterior pero ahora se ha de crear índices, MD para Madrid, BCL para Barcelona,
 LD para Londres, NY para New York, LA para Los Ángeles y CCG para Chicago.
 Ejemplo: El índice de Madrid es MD.
-
-        <?php require 'nav.php';?>
-
 
         <?php
             

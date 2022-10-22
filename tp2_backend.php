@@ -13,11 +13,6 @@
 <body>
     <div class="container">
 
-        <p>Alumno: Gallo Rodrigo Nicolas</p>
-        <p>Dni: 31143647</p>
-
-        <h1>Tareas</h1>
-
          <?php require 'nav.php';?>
         
         

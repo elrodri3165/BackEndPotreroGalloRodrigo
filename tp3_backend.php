@@ -13,10 +13,7 @@
 <body>
     <div class="container">
 
-        <p>Alumno: Gallo Rodrigo Nicolas</p>
-        <p>Dni: 31143647</p>
-
-        <h1>Tareas</h1>
+        <?php require 'nav.php';?>
 
         1. Mostrar los números del 1 al 100.
         2. Mostrar los números del 100 al 1.
@@ -24,9 +21,6 @@
         4. Mostrar los números impares del 1 al 100.
         5. Mostrar la suma de los números de 1 a 20.
         6. Mostrar la suma de números pares de 1 a 20.
-
-        <?php require 'nav.php';?>
-
 
         <?php
         /*ejercicio1*/

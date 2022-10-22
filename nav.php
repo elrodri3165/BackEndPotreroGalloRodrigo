@@ -1,4 +1,10 @@
-<ul class="nav nav-pills">
+<h1 class="text-center">Alumno: Gallo Rodrigo Nicolas</h1>
+<h2>Dni: 31143647</h2>
+
+<h3>Tareas</h3>
+
+
+<ul class="nav nav-pills border">
     <li class="nav-item">
         <a class="nav-link" href="tarea1.php">Tarea1</a>
     </li>
