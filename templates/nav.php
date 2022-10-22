@@ -24,7 +24,7 @@
         <a class="nav-link" href="tp4_backend.php">tp4_backend.php</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="tienda_ropa.sql">Tarea N7 - phpmyadmin</a>
+        <a class="nav-link" href="db/tienda_ropa.sql">Tarea N7 - phpmyadmin</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="tp8_backend.php">Tarea N8 - phpmyadmin2</a>

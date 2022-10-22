@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarea BackEnd Potrero Digital Gallo Rodrigo Nicolas</title>
-    <!-- CSS only -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
-</head>
+<?php require 'templates/head.php';?>
 
 <body>
     <div class="container">
@@ -18,7 +11,7 @@
         <h1>Tareas</h1>
 
 
-        <?php require 'nav.php';?>
+        <?php require 'templates/nav.php';?>
         
         <div>
             <h1>Se ha validado correctamente!</h1>

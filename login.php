@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<?php require 'head.php';?>
+<?php require 'templates/head.php';?>
 
 <body>
     <div class="container">
        
-        <?php require 'nav.php';?>
+        <?php require 'templates/nav.php';?>
 
         <form method="post" action="validar.php">
             <div class="mb-3">

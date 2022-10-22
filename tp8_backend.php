@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<?php require 'head.php';?>
+<?php require 'templates/head.php';?>
 
 <body>
     <div class="container">
 
         
-        <?php require 'nav.php';?>
+        <?php require 'templates/nav.php';?>
 
         <h2>Base de datos con los nuevos registros</h2>
 
