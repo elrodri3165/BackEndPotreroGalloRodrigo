@@ -1,7 +1,7 @@
 <h1 class="text-center">Alumno: Gallo Rodrigo Nicolas</h1>
-<h2>Dni: 31143647</h2>
+<h2 class="text-center">Dni: 31143647</h2>
 
-<h3>Tareas</h3>
+<h3 class="text-center">Tareas</h3>
 
 
 <ul class="nav nav-pills border">

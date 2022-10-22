@@ -11,7 +11,7 @@
 
         <h2>Base de datos con los nuevos registros</h2>
 
-        <a href="tienda_ropa2.sql">Base de datos nueva</a>
+        <a href="db/tienda_ropa2.sql">Base de datos nueva</a>
         <br>
 
         <?php
