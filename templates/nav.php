@@ -4,7 +4,7 @@
 <h3 class="text-center">Tareas</h3>
 
 
-<ul class="nav nav-pills border">
+<ul class="nav nav-pills nav-fill border my-3">
     <li class="nav-item">
         <a class="nav-link" href="tarea1.php">Tarea1</a>
     </li>
@@ -28,6 +28,9 @@
     </li>
     <li class="nav-item">
         <a class="nav-link" href="tp8_backend.php">Tarea N8 - phpmyadmin2</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="tp9_crud.php">Tarea N9 - CRUD</a>
     </li>
 
 </ul>
